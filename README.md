@@ -9,8 +9,9 @@ Be The Hero
 
 ## Features
 
-- 💠 **React** — A JavaScript library for building user interfaces
-- 🌐 **Express** - minimalist web framework for node.
+- 💠 **[React](https://reactjs.org/)** — A JavaScript library for building user interfaces.
+- 🌐 **[Express](https://www.npmjs.com/package/express)** — A minimalist web framework for node.
+- 🔨 **[Jest](https://jestjs.io/)** — A delightful JavaScript Testing Framework with a focus on simplicity.
 
 ## Dependencies
 
