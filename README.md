@@ -9,7 +9,7 @@ Be The Hero
 
 ## Features
 
-- :react: **React** — A JavaScript library for building user interfaces
+- 💠 **React** — A JavaScript library for building user interfaces
 - 🌐 **Express** - minimalist web framework for node.
 
 ## Dependencies
